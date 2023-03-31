@@ -28,7 +28,7 @@ public class StudentScoreCalculator {
         }
     }
 }
-output:
+//output//
 Student ID	Total Score
 1		      40
 2		      41
